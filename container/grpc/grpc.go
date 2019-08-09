@@ -9,10 +9,10 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/connectivity"
 
-	"github.com/wrfly/container-web-tty/config"
-	pb "github.com/wrfly/container-web-tty/proxy/pb"
-	"github.com/wrfly/container-web-tty/types"
-	"github.com/wrfly/container-web-tty/util"
+	"github.com/zmf963/container-web-tty/config"
+	pb "github.com/zmf963/container-web-tty/proxy/pb"
+	"github.com/zmf963/container-web-tty/types"
+	"github.com/zmf963/container-web-tty/util"
 )
 
 type grpcCli struct {

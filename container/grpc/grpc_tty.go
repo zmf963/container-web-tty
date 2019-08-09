@@ -3,7 +3,7 @@ package grpc
 import (
 	"time"
 
-	pb "github.com/wrfly/container-web-tty/proxy/pb"
+	pb "github.com/zmf963/container-web-tty/proxy/pb"
 )
 
 // execWrapper implement webtty.Slave

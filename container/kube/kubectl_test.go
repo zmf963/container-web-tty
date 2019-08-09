@@ -7,8 +7,8 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/wrfly/container-web-tty/config"
-	"github.com/wrfly/container-web-tty/types"
+	"github.com/zmf963/container-web-tty/config"
+	"github.com/zmf963/container-web-tty/types"
 )
 
 func TestKubeCli(t *testing.T) {

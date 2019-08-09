@@ -18,10 +18,10 @@ import (
 	log "github.com/sirupsen/logrus"
 	"github.com/yudai/gotty/webtty"
 
-	"github.com/wrfly/container-web-tty/config"
-	"github.com/wrfly/container-web-tty/container"
-	"github.com/wrfly/container-web-tty/route/asset"
-	"github.com/wrfly/container-web-tty/types"
+	"github.com/zmf963/container-web-tty/config"
+	"github.com/zmf963/container-web-tty/container"
+	"github.com/zmf963/container-web-tty/route/asset"
+	"github.com/zmf963/container-web-tty/types"
 )
 
 // Server provides a webtty HTTP endpoint.

@@ -7,10 +7,10 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/wrfly/container-web-tty/container"
-	pb "github.com/wrfly/container-web-tty/proxy/pb"
-	"github.com/wrfly/container-web-tty/types"
-	"github.com/wrfly/container-web-tty/util"
+	"github.com/zmf963/container-web-tty/container"
+	pb "github.com/zmf963/container-web-tty/proxy/pb"
+	"github.com/zmf963/container-web-tty/types"
+	"github.com/zmf963/container-web-tty/util"
 )
 
 const (

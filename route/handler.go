@@ -15,8 +15,8 @@ import (
 	log "github.com/sirupsen/logrus"
 	"github.com/yudai/gotty/webtty"
 
-	"github.com/wrfly/container-web-tty/audit"
-	"github.com/wrfly/container-web-tty/types"
+	"github.com/zmf963/container-web-tty/audit"
+	"github.com/zmf963/container-web-tty/types"
 )
 
 func (server *Server) handleExec(c *gin.Context, counter *counter) {

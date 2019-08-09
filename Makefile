@@ -60,8 +60,8 @@ api:
 
 .PHONY: proto
 proto:
-	proteus proto -f /tmp -p github.com/wrfly/container-web-tty/types --verbose
-	cp /tmp/github.com/wrfly/container-web-tty/types/generated.proto proxy/pb
+	proteus proto -f /tmp -p github.com/zmf963/container-web-tty/types --verbose
+	cp /tmp/github.com/zmf963/container-web-tty/types/generated.proto proxy/pb
 
 ## --- these stages are copied from gotty for asset building --- ##
 .PHONY: asset

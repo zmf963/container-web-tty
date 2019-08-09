@@ -10,8 +10,8 @@ import (
 	"strings"
 	"syscall"
 
-	pb "github.com/wrfly/container-web-tty/proxy/pb"
-	"github.com/wrfly/container-web-tty/types"
+	pb "github.com/zmf963/container-web-tty/proxy/pb"
+	"github.com/zmf963/container-web-tty/types"
 )
 
 // ConvertTpContainer *pb.Container -> types.Container

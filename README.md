@@ -1,13 +1,13 @@
 # Container web TTY
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/wrfly/container-web-tty)](https://goreportcard.com/report/github.com/wrfly/container-web-tty)
+[![Go Report Card](https://goreportcard.com/badge/github.com/zmf963/container-web-tty)](https://goreportcard.com/report/github.com/zmf963/container-web-tty)
 [![Master Build Status](https://travis-ci.org/wrfly/container-web-tty.svg?branch=master)](https://travis-ci.org/wrfly/container-web-tty)
-[![GoDoc](https://godoc.org/github.com/wrfly/container-web-tty?status.svg)](https://godoc.org/github.com/wrfly/container-web-tty)
-[![license](https://img.shields.io/github/license/wrfly/container-web-tty.svg)](https://github.com/wrfly/container-web-tty/blob/master/LICENSE)
+[![GoDoc](https://godoc.org/github.com/zmf963/container-web-tty?status.svg)](https://godoc.org/github.com/zmf963/container-web-tty)
+[![license](https://img.shields.io/github/license/wrfly/container-web-tty.svg)](https://github.com/zmf963/container-web-tty/blob/master/LICENSE)
 [![Docker Pulls](https://img.shields.io/docker/pulls/wrfly/container-web-tty.svg)](https://hub.docker.com/r/wrfly/container-web-tty)
 [![MicroBadger Size](https://img.shields.io/microbadger/image-size/wrfly/container-web-tty.svg)](https://hub.docker.com/r/wrfly/container-web-tty)
-[![GitHub release](https://img.shields.io/github/release/wrfly/container-web-tty.svg)](https://github.com/wrfly/container-web-tty/releases)
-[![Github All Releases](https://img.shields.io/github/downloads/wrfly/container-web-tty/total.svg)](https://github.com/wrfly/container-web-tty/releases)
+[![GitHub release](https://img.shields.io/github/release/wrfly/container-web-tty.svg)](https://github.com/zmf963/container-web-tty/releases)
+[![Github All Releases](https://img.shields.io/github/downloads/wrfly/container-web-tty/total.svg)](https://github.com/zmf963/container-web-tty/releases)
 
 [中文](README.ZH.md)
 

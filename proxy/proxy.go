@@ -8,8 +8,8 @@ import (
 	"github.com/sirupsen/logrus"
 	"google.golang.org/grpc"
 
-	"github.com/wrfly/container-web-tty/container"
-	pbrpc "github.com/wrfly/container-web-tty/proxy/pb"
+	"github.com/zmf963/container-web-tty/container"
+	pbrpc "github.com/zmf963/container-web-tty/proxy/pb"
 )
 
 // GrpcServer is the grpc server

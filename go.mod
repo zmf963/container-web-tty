@@ -1,4 +1,4 @@
-module github.com/wrfly/container-web-tty
+module github.com/zmf963/container-web-tty
 
 go 1.12
 

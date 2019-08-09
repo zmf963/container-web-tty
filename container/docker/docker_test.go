@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/wrfly/container-web-tty/config"
+	"github.com/zmf963/container-web-tty/config"
 )
 
 func TestDocker(t *testing.T) {
